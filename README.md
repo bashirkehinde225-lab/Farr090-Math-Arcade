@@ -23,7 +23,7 @@ Open the project folder in a terminal and run:
 ```bash
 python main.py
 
-On Windows, you can also use:
+on Windows, you can also use:
 
 py main.py
 
@@ -31,8 +31,8 @@ Main Files
 main.py - Runs the main program
 Quiz.py - Math quiz
 shapes.py - Shapes and geometry
-game.py - Rock Paper Scissors
-coffe_.py - Coffee shop
+game.
+
 Calc.py - Calculator
 Project Goal
 
