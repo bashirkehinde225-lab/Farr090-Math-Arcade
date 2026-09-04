@@ -39,3 +39,4 @@ Project Goal
 The main goal of this project was to practice Python and learn how to build a larger program using different files and functions.
 
 This project is still part of my learning journey, and I plan to keep improving my programming skills.
+
